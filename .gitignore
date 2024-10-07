@@ -1,0 +1,13 @@
+
+.idea/icae.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+code/icae_v2/.ipynb_checkpoints/dev_v2-checkpoint.jsonl
+code/icae_v2/.ipynb_checkpoints/example-checkpoint.ipynb
+code/icae_v2/.ipynb_checkpoints/modeling_icae_multi_span-checkpoint.py
+code/icae_v2/.ipynb_checkpoints/pretrain-checkpoint.py
+code/icae_v2/.ipynb_checkpoints/pretrained_inference-checkpoint.py
+code/icae_v2/.ipynb_checkpoints/pretrained_inference_script-checkpoint.sh
+code/icae_v2/.ipynb_checkpoints/training_utils-checkpoint.py
